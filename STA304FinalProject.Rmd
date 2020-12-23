@@ -3,7 +3,7 @@ title: "How Starbucks Reward Loyalty Program steering customer's spending - Prop
 author: 
 - Fanzhen Meng Student No.1002812824 
 
-- https://github.com/Fanzhen-Meng/STA304-FinalProject.git
+- https://github.com/Fanzhen-Meng/304FinalProject.git
 
 date: "12/22/2020"
  
