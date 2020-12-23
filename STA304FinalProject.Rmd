@@ -199,7 +199,7 @@ The propensity-score matching (PSM) technique is usually used to estimate the di
 
 Starbucks Corp. has rapidly grown into the world's dominant coffee shop chain in the past five decades by roasting, marketing, and selling coffee and ever-expanding merchandise of other food, beverages, and branded products. While Starbucks dominates the U.S. market, it faces increasing competition in international markets, including U.K. Costa Coffee, a subsidiary of Coca-Cola Co.; and China-based Luckin Coffee Inc(Farley, 2020). Under tough market competition, the Starbucks Reward Loyalty Program plays an important role in generating customer loyalty, increasing revenue, collecting data, and creating personalized marketing efforts(Leah, 2020).
 
-According to Starbucks' official data, the Loyalty Program has climbed to 16 million active members as of March 2019. The program had attributes 40% of Starbucks total sales and has helped same-store sales rise by around 7%(Brown, 2019). As a member of the Loyalty Program, people can order and pay through the app ahead of arriving at a nearby store, as well as earn stars (rewards) that can be used to get free drinks, food, and merchandise. In order to help the corporations achieve the highest level of customer engagement, it is important to understand how the membership identity and other customer characteristics could contribute to a customer’s spending in Starbucks.
+According to Starbucks' official data, the Loyalty Program has climbed to 16 million active members as of March 2019(Leah, 2020). The program had attributes 40% of Starbucks total sales and has helped same-store sales rise by around 7%(Brown, 2019). As a member of the Loyalty Program, people can order and pay through the app ahead of arriving at a nearby store, as well as earn stars (rewards) that can be used to get free drinks, food, and merchandise. In order to help the corporations achieve the highest level of customer engagement, it is important to understand how the membership identity and other customer characteristics could contribute to a customer’s spending in Starbucks.
 
 When simulating the data, three general customer characteristics" “age”, “gender”, and “income” will be considered as independent variables. In the following study, I will be focusing on investigating the association between customer’s membership identity, as well as the three characteristics and their average spendingin Starbucks.
 
@@ -344,6 +344,8 @@ Since covariate balance is a large sample property in propensity score matching(
 
 
 ## References
+
+Alexander, Rohan. (2020, November 05).Difference in differences. Retrieved December 23, 2020, from https://www.tellingstorieswithdata.com/06-03-matching_and_differences.html
 
 Arane,T. Lix, L. (2008, April 22). University of Manitoba. 
 Propensity Score Matching in Observational Studies. Retrieved December 20, 2020, from https://www.umanitoba.ca/faculties/health_sciences/medicine/units/chs/departmental_units/mchp/protocol/media/propensity_score_matching.pdf
